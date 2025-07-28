@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FC5D6F7D-B862-4834-BD40-F603D26CCB69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fermat.EntityFramework.ExceptionLogs", "src\Fermat.EntityFramework.ExceptionLogs\Fermat.EntityFramework.ExceptionLogs.csproj", "{BE066C3B-5694-4FB4-998D-8A36EAE02D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE066C3B-5694-4FB4-998D-8A36EAE02D45} = {FC5D6F7D-B862-4834-BD40-F603D26CCB69}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE066C3B-5694-4FB4-998D-8A36EAE02D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE066C3B-5694-4FB4-998D-8A36EAE02D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE066C3B-5694-4FB4-998D-8A36EAE02D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE066C3B-5694-4FB4-998D-8A36EAE02D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
