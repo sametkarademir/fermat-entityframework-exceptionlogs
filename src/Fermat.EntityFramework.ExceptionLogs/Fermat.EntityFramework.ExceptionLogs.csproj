@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <PackageId>Fermat.EntityFramework.ExceptionLogs</PackageId>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Version>0.0.0</Version>
+        <Version>0.0.1</Version>
         <Authors>Samet Karademir</Authors>
         <Description>A Fermat package for logging exceptions in Entity Framework Core using a database.</Description>
         <PackageTags>dotnet;fermat;entityframework;exception;logs;logging;database</PackageTags>
